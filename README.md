@@ -1,3 +1,5 @@
-# ![BSIPA](docs/images/banner_dark.svg) [![Build](https://github.com/nike4613/BeatSaber-IPA-Reloaded/workflows/Build/badge.svg)](https://github.com/nike4613/BeatSaber-IPA-Reloaded)
+﻿# Anti-Piracy Patch
 
-[ALL DOCUMENTATION HAS MOVED HERE](https://nike4613.github.io/BeatSaber-IPA-Reloaded/)
+Imagine having anti-piracy on an FOSS app for a game that you do not own, just to distribute copyrighted music you don't own. L developers
+
+
